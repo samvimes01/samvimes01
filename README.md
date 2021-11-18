@@ -32,7 +32,7 @@ I'm also very interested in Dart and Flutter.
 - 💬 trying answering and asking on [StackOverflow](https://stackoverflow.com/users/11654839/oleksandr-k)
 - 🖼️ occasionally posting on [Medium](https://medium.com/@oleksandr.k)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=samvimes01&show_icons=true&count_private=true&hide_rank=true&hide_title=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samvimes01&layout=compact&theme=github_dark&langs_count=8&hide=PHP)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=samvimes01&show_icons=true&count_private=true&hide_rank=true&hide_title=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samvimes01&layout=compact&langs_count=8&hide=PHP)
 
 <!--
 **samvimes01/samvimes01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
