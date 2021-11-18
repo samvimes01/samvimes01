@@ -23,9 +23,9 @@ I'm also very interested in Dart and Flutter.
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=green)
 
-🌱 When I am offline, I walk a lot and read fiction books.
-📚 I love the books by Terry Pratchett and Brandon Sanderson.
-⚡ Fun fact: this GitHub profile name has roots in Pratchett's books
+- 🌱 When I am offline, I walk a lot and read fiction books.
+- 📚 I love the books by Terry Pratchett and Brandon Sanderson.
+- ⚡ Fun fact: this GitHub profile name has roots in Pratchett's books
 
 ### 📫 How to reach me:
 - 🔭 profile on [LinkedIn](https://www.linkedin.com/in/oleksandr-korneiko/)
