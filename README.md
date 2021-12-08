@@ -36,6 +36,8 @@ Top languages              |  Github Stats
 :-------------------------:|:-------------------------:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samvimes01&layout=compact&langs_count=8&hide=PHP&hide_title=true) | ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=samvimes01&show_icons=true&count_private=true&hide_rank=true&hide_title=true)
 
+<a href="https://wakatime.com"><img width="400px" src="https://wakatime.com/share/@6b4ea0f5-9908-40a3-a46d-4f3dbdf3b871/fbdd7876-c43a-4bc2-b582-a03cdcd71b7d.png" /></a>
+
 <!--
 **samvimes01/samvimes01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
