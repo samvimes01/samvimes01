@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #### I'm Oleksandr.
-I am working as Fronted developer at Vilmate (Angular, Ionic, Capacitor, Fastlane). I worked as a Fullstack Software Engineer at SimpliField.
+I am working as Fronted developer. I'm using Angular, Ionic, Capacitor, Fastlane. I worked as a Fullstack Software developer (used AngularJs, Cordova/Capacior, Node.js/Express, MongoDB).
 I'm a creative web developer with almost 3 years of strong experience in Front-end Development, Back-end Development areas with a willingness to learn and practice Single Page apps, PWA, and hybrid mobile apps.
 I have good practical skills in HTML5/CSS, JavaScript, TypeScript, AngularJs, Angular 2+, React,  Node.js, MongoDB.
 I'm also very interested in Dart and Flutter.
