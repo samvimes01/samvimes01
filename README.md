@@ -31,7 +31,7 @@ I'm also very interested in Dart and Flutter.
 ### 📫 How to reach me:
 - 🔭 profile on [LinkedIn](https://www.linkedin.com/in/oleksandr-korneiko/)
 - 💬 trying answering and asking on [StackOverflow](https://stackoverflow.com/users/11654839/oleksandr-k)
-- 🖼️ occasionally posting on [Medium](https://medium.com/@oleksandr.k)
+- 🖼️ occasionally posting on [Medium](https://medium.com/@oleksandr_k)
 
 [![Oleksandr Korneiko profile views](https://u8views.com/api/v1/github/profiles/4409473/views/day-week-month-total-count.svg)](https://u8views.com/github/samvimes01)
 
