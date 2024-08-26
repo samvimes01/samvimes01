@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 #### I'm Oleksandr.
-I am working as Fronted developer. I'm using Angular, Ionic, Capacitor, Fastlane. I worked as a Fullstack Software developer (used AngularJs, Cordova/Capacior, Node.js/Express, MongoDB).
-I'm a creative web developer with more than 4 years of strong experience in Front-end Development, Back-end Development areas with a willingness to learn and practice Single Page apps, PWA, and hybrid mobile apps.
-I have good practical skills in HTML5/CSS, JavaScript, TypeScript, AngularJs, Angular 2+, React,  Node.js, MongoDB.
-I'm also very interested in Dart and Flutter.
+I am working as Fronted developer. I'm using Angular, Ionic, Capacitor, Node.js and Go. I worked as a Fullstack Software developer (used AngularJs, Cordova/Capacior, Node.js/Express, MongoDB).
+I'm a creative web developer with more than 5 years of strong experience in Front-end Development, Back-end Development areas with a willingness to learn and practice Single Page apps, PWA, and hybrid mobile apps.
+I have good practical skills in HTML5/CSS, JavaScript, TypeScript, AngularJs, Angular 2+, Node.js, MongoDB.
+I heve some experience in React and Go. I'm also very interested in Dart and Flutter.
 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-Android%20Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=blue)
