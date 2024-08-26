@@ -28,6 +28,13 @@ I'm also very interested in Dart and Flutter.
 - 📚 I love the books by Terry Pratchett and Brandon Sanderson.
 - ⚡ Fun fact: this GitHub profile name has roots in Pratchett's books
 
+### My certificates:
+
+<a href="https://certificates.dev/angular/certificates/9ccd14b3-7587-4fdf-b6de-f1c2a02e366a"><img width="300px" alt="angular middle developer certificate" src="https://github.com/user-attachments/assets/735879af-62c9-4285-bcaa-c766f28edbaf" /></a>
+
+[Go](https://www.boot.dev/certificate/youthfulpositive87/3b39d0f6-f944-4f1b-832d-a1daba32eda4)
+[Kubernetes](https://www.boot.dev/certificate/youthfulpositive87/6e6236f7-6f6b-45e3-859a-5fd0084754aa)
+
 ### 📫 How to reach me:
 - 🔭 profile on [LinkedIn](https://www.linkedin.com/in/oleksandr-korneiko/)
 - 💬 trying answering and asking on [StackOverflow](https://stackoverflow.com/users/11654839/oleksandr-k)
