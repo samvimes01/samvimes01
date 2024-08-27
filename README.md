@@ -31,8 +31,8 @@ I have some experience in React and Go. I'm also very interested in Dart and Flu
 
 ### My certificates:
 
-<a href="https://certificates.dev/angular/certificates/9ccd14b3-7587-4fdf-b6de-f1c2a02e366a"><img width="300px" alt="angular middle developer certificate" src="https://github.com/user-attachments/assets/735879af-62c9-4285-bcaa-c766f28edbaf" /></a>
-<a href="https://www.credly.com/badges/f0776e5f-f8a1-49a0-9971-5dd8abaa2b3c/public_url"><img width="300px" alt="associate cloud engineer certificate" src="https://github.com/user-attachments/assets/29b40527-8d5b-480e-bf5a-7543076738cc" /></a>
+<a href="https://certificates.dev/angular/certificates/9ccd14b3-7587-4fdf-b6de-f1c2a02e366a"><img width="400px" alt="angular middle developer certificate" src="https://github.com/user-attachments/assets/735879af-62c9-4285-bcaa-c766f28edbaf" /></a>
+<a href="https://www.credly.com/badges/f0776e5f-f8a1-49a0-9971-5dd8abaa2b3c/public_url"><img width="400px" alt="associate cloud engineer certificate" src="https://github.com/user-attachments/assets/29b40527-8d5b-480e-bf5a-7543076738cc" /></a>
 - Angular senior developer - certification coming soon (Q1 2025 according to certificates.dev)
 - [Go](https://www.boot.dev/certificate/youthfulpositive87/3b39d0f6-f944-4f1b-832d-a1daba32eda4)
 - [Kubernetes](https://www.boot.dev/certificate/youthfulpositive87/6e6236f7-6f6b-45e3-859a-5fd0084754aa)
