@@ -43,7 +43,7 @@ I have some experience in React and Go. I'm also very interested in Dart and Flu
 - 💬 trying answering and asking on [StackOverflow](https://stackoverflow.com/users/11654839/oleksandr-k)
 - 🖼️ occasionally posting on [Medium](https://medium.com/@oleksandr_k), [Dev](https://dev.to/oleks)
 
-[![Oleksandr Korneiko profile views](https://u8views.com/api/v1/github/profiles/4409473/views/day-week-month-total-count.svg)](https://u8views.com/github/samvimes01)
+![Oleksandr Korneiko profile views](https://u8views.com/api/v1/github/profiles/4409473/views/day-week-month-total-count.svg)](https://u8views.com/github/samvimes01)
 
 Top languages              |  Github Stats
 :-------------------------:|:-------------------------:
