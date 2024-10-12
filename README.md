@@ -53,7 +53,7 @@ Top languages              |  Github Stats
 
 ### 🏆 Github trophies:
 
-https://github-profile-trophy.vercel.app/?username=samvimes01&theme=light&column=3&margin-w=15&margin-h=15
+[![Oleksandr Korneiko Github  trophies](https://github-profile-trophy.vercel.app/?username=samvimes01&theme=light&column=3&margin-w=15&margin-h=15)
 
 <!--
 **samvimes01/samvimes01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
