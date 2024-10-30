@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #### I'm Oleksandr.
-I am working as Fronted developer. I'm using Angular, Ionic, Capacitor, Node.js and Go. I worked as a Fullstack Software developer (used AngularJs, Cordova/Capacior, Node.js/Express, MongoDB).
+I am working mostly as a Frontend developer, but sometimes I develop hybrid mobile apps and do some backend stuff. I'm using Angular, Ionic, Capacitor, Node.js and Go. I worked as a Fullstack Software developer (used AngularJs, Cordova/Capacior, Node.js/Express, MongoDB).
 I'm a creative web developer with more than 5 years of strong experience in Front-end Development, Back-end Development areas with a willingness to learn and practice Single Page apps, PWA, and hybrid mobile apps.
 I have good practical skills in HTML5/CSS, JavaScript, TypeScript, AngularJs, Angular 2+, Node.js, MongoDB.
 I have some experience in React and Go. I'm also very interested in Dart and Flutter.
