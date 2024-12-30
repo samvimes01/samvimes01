@@ -32,6 +32,7 @@ I have some experience in React and Go. I'm also very interested in Dart and Flu
 ### 👨‍🎓 My certificates:
 
 <a href="https://certificates.dev/angular/certificates/9ccd14b3-7587-4fdf-b6de-f1c2a02e366a"><img width="400px" alt="angular middle developer certificate" src="https://github.com/user-attachments/assets/735879af-62c9-4285-bcaa-c766f28edbaf" /></a>
+<a href="https://api.certificates.dev/certificates/thumbnail/9dd86fc8-51bb-4ea9-ae53-1636dec5f968.jpg"><img width="400px" alt="angular middle developer certificate" src="https://github.com/user-attachments/assets/735879af-62c9-4285-bcaa-c766f28edbaf" /></a>
 <a href="https://www.credly.com/badges/f0776e5f-f8a1-49a0-9971-5dd8abaa2b3c/public_url"><img width="400px" alt="associate cloud engineer certificate" src="https://github.com/user-attachments/assets/29b40527-8d5b-480e-bf5a-7543076738cc" /></a>
 - [All certificates on Credly](https://www.credly.com/users/oleksandr-korneiko.ef0e72ff)
 - Angular senior developer - certification coming soon (Q1 2025 according to certificates.dev)
