@@ -47,10 +47,6 @@ I have some experience in React and Go. I'm also very interested in Dart and Flu
 
 <a href="https://wakatime.com"><img width="400px" src="https://wakatime.com/share/@6b4ea0f5-9908-40a3-a46d-4f3dbdf3b871/fbdd7876-c43a-4bc2-b582-a03cdcd71b7d.png" /></a>
 
-### 🏆 Github trophies:
-
-![Oleksandr Korneiko Github  trophies](https://github-profile-trophy.vercel.app/?username=samvimes01&theme=light&column=3&margin-w=15)
-
 <!--
 **samvimes01/samvimes01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
