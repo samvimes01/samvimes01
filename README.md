@@ -3,8 +3,8 @@
 #### I'm Oleksandr.
 I am working mostly as a Frontend developer, but sometimes I develop hybrid mobile apps and do some backend stuff. I'm using Angular, Ionic, Capacitor, Node.js and Go. I worked as a Fullstack Software developer (used AngularJs, Cordova/Capacior, Node.js/Express, MongoDB).
 I'm a creative web developer with more than 5 years of strong experience in Front-end Development, Back-end Development areas with a willingness to learn and practice Single Page apps, PWA, and hybrid mobile apps.
-I have good practical skills in HTML5/CSS, JavaScript, TypeScript, AngularJs, Angular 2+, Node.js, MongoDB.
-I have some experience in React and Go. I'm also very interested in Dart and Flutter.
+I have good practical skills in HTML5/CSS, JavaScript, TypeScript, AngularJs, Angular 2+, Node.js.
+I have some experience in React and Go. With Go I've buildt some cli tools and wasm modules for Chrome extensions and websites.
 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-Android%20Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=blue)
@@ -36,11 +36,9 @@ I have some experience in React and Go. I'm also very interested in Dart and Flu
 <a href="https://www.credly.com/badges/f0776e5f-f8a1-49a0-9971-5dd8abaa2b3c/public_url"><img width="400px" alt="associate cloud engineer certificate" src="https://github.com/user-attachments/assets/29b40527-8d5b-480e-bf5a-7543076738cc" /></a>
 - [All certificates on Credly](https://www.credly.com/users/oleksandr-korneiko.ef0e72ff)
 - [Go](https://www.boot.dev/certificate/youthfulpositive87/3b39d0f6-f944-4f1b-832d-a1daba32eda4)
-- [Kubernetes](https://www.boot.dev/certificate/youthfulpositive87/6e6236f7-6f6b-45e3-859a-5fd0084754aa)
 
 ### 📫 How to reach me:
 - 🔭 profile on [LinkedIn](https://www.linkedin.com/in/oleksandr-korneiko/)
-- 💬 trying answering and asking on [StackOverflow](https://stackoverflow.com/users/11654839/oleksandr-k)
 - 🖼️ occasionally posting on [Medium](https://medium.com/@oleksandr_k), [Dev](https://dev.to/oleks)
 
 [![Oleksandr Korneiko profile views](https://u8views.com/api/v1/github/profiles/4409473/views/day-week-month-total-count.svg)](https://u8views.com/github/samvimes01)
