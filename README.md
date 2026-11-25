@@ -1,10 +1,14 @@
 ## Hi there 👋
 
 #### I'm Oleksandr.
-I am working mostly as a Frontend developer, but sometimes I develop hybrid mobile apps and do some backend stuff. I'm using Angular, Ionic, Capacitor, Node.js and Go. I worked as a Fullstack Software developer (used AngularJs, Cordova/Capacior, Node.js/Express, MongoDB).
-I'm a creative web developer with more than 5 years of strong experience in Front-end Development, Back-end Development areas with a willingness to learn and practice Single Page apps, PWA, and hybrid mobile apps.
-I have good practical skills in HTML5/CSS, JavaScript, TypeScript, AngularJs, Angular 2+, Node.js.
-I have some experience in React and Go. With Go I've buildt some cli tools and wasm modules for Chrome extensions and websites.
+Fullstack developer with 5+ years of experience building web applications and managing Linux infrastructure, currently developing analytics and backend systems for an adtech platform.
+
+- **Frontend:** TypeScript, JavaScript, Angular (2+ & AngularJS), HTML5/CSS, React, Vue
+- **Backend & Data:** Node.js, Go, ClickHouse, MySQL, Aerospike, MongoDB
+- **Infrastructure & Networking:** Linux (dedicated servers & VPS), Docker/Podman, systemd, WireGuard mesh networks, Traefik, Apache httpd, iptables/UFW
+- **CI/CD & Automation:** GitHub Actions, GitLab CI, Azure DevOps, Jenkins, Ansible
+
+Dual-boot macOS 💻 / Linux 🐧 (Arch & Fedora) user.
 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-Android%20Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=blue)
