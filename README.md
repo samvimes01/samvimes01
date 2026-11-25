@@ -11,8 +11,10 @@ Fullstack developer with 5+ years of experience building web applications and ma
 Dual-boot macOS 💻 / Linux 🐧 (Arch & Fedora) user.
 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-Android%20Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=gnubash&logoColor=white&color=important)
+![](https://img.shields.io/badge/Editor-Android%20Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=green)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Shell-bash-informational?style=flat&logo=gnubash&logoColor=white&color=important)
+![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=zsh&logoColor=white&color=important)
 
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=yellowgreen)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=yellowgreen)
