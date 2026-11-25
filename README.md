@@ -14,20 +14,11 @@ Dual-boot macOS 💻 / Linux 🐧 (Arch & Fedora) user.
 ![](https://img.shields.io/badge/Editor-Android%20Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=gnubash&logoColor=white&color=important)
 
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-AngularJs-informational?style=flat&logo=angularjs&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-Capacitor-informational?style=flat&logo=capacitor&logoColor=white&color=success)
-
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=yellowgreen)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=yellowgreen)
-
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=green)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=green)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=success)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=success)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=success)
 
 - 🌱 When I am offline, I walk a lot and read fiction books.
 - 📚 I love the books by Terry Pratchett and Brandon Sanderson.
